@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "explorejs",
+  "version": "1.0.0",
+  "description": "Exploring JS",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Sumit Paul",
+  "license": "ISC"
+}
